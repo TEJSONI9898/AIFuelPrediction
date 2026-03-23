@@ -1,0 +1,5 @@
+{
+  "name": "Melbourne Fuel Tracker",
+  "description": "Live fuel price tracking and 7-day predictions for Melbourne, Australia.",
+  "requestFramePermissions": ["geolocation"]
+}
